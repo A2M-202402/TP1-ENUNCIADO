@@ -1,0 +1,6 @@
+Pikachu;E;1
+Charmander;F;2
+Larvitar;R;5
+Cacnea;P;7
+Togepi;N;8
+Floatzel;A;1
